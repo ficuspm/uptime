@@ -11,11 +11,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /ficuspm/uptime
+  cname: uptime.ficuspm.com
+  # baseUrl: /ficuspm/uptime
   logoUrl: https://www.ficuspm.com/img/logo-transparent-512.png
   name: Upptime
-  introTitle: Ficus PM
+  introTitle: Ficus PM Uptime monitor
   introMessage: "Hi, I'm the status page for **Ficus PM**, hosted with **Upptime**."
   navbar:
     - title: Status
