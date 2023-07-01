@@ -22,17 +22,19 @@
     "url": "https://projectadmin.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/projectadmin.co.uk.ico",
     "slug": "project-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 596,
-    "timeWeek": 606,
-    "timeMonth": 562,
-    "timeYear": 567,
-    "dailyMinutesDown": {}
+    "time": 577,
+    "timeDay": 854,
+    "timeWeek": 669,
+    "timeMonth": 580,
+    "timeYear": 577,
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   }
 ]
